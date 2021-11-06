@@ -1,0 +1,6 @@
+[
+    {"name": "ground", "cost": 5},
+    {"name": "rock", "cost": 0},
+    {"name": "road", "cost": 1},
+    {"name": "bush", "cost": 25}
+]

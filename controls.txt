@@ -1,0 +1,26 @@
+enter -> next mode
+esc -> prev mode
+
+mode 0 (map creation):
+  scroll up/down -> increase/decrease map size
+
+mode 1 (map editing):
+  lmb (on tile) -> set the first type to the tile
+  rmb (on tile) -> set the second type to the tile
+  mouse + lmb/rmb (pressed) -> "draw" a line of tiles of a certain type
+  mouse + shift + lmb/rmb (pressed) -> "draw" a straight line of tiles of a certain type
+  scroll up/down -> switch the tile type you place on lmb to the next/prev
+  mmb (on tile) -> peak type from the tile to the lmb
+
+mode 2 (bot and target placing):
+  scroll -> switch to bot/target placing mode
+  lmb (on tile) -> place the bot/target (if possible)
+  mouse + lmb (pressed) -> drag the bot/target
+  rmb -> remove the bot/target
+  scroll up/down + ctrl (in bot placing mode) -> increase/decrease the size of the bot (if possible)
+
+mode 3 (search result):
+  -
+
+mode 4 (path render):
+  -
